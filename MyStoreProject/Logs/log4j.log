@@ -1,0 +1,130 @@
+2022-12-05 23:25:55 INFO  Log:20 - This is beforeSuit Method
+2022-12-05 23:26:01 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-05 23:26:03 INFO  Log:20 - Clicked on Signup/Login
+2022-12-05 23:27:04 INFO  Log:20 - Login Successfully
+2022-12-05 23:27:04 INFO  Log:20 - 'Logged In As' is found and HomePage is validated 
+2022-12-05 23:27:04 INFO  Log:15 - =====================================loggedInAs TEST END=========================================
+2022-12-06 13:02:02 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:02:09 INFO  Log:11 - =====================================login TEST START=========================================
+2022-12-06 13:02:10 INFO  Log:20 - clicked on Signup/Login
+2022-12-06 13:02:10 INFO  Log:20 - User Name entred
+2022-12-06 13:02:11 INFO  Log:20 - Password entred successfully and Clicking Submit button for Login
+2022-12-06 13:02:15 INFO  Log:20 - Login Successfully 
+2022-12-06 13:02:17 INFO  Log:20 - Clicked Logout
+2022-12-06 13:02:17 INFO  Log:20 - Login page URL validated// landing page after logout
+2022-12-06 13:02:17 INFO  Log:20 - Logout Successfully 
+2022-12-06 13:02:17 INFO  Log:15 - =====================================login TEST END=========================================
+2022-12-06 13:02:31 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:02:39 INFO  Log:11 - =====================================validateLogo TEST START=========================================
+2022-12-06 13:02:39 INFO  Log:20 - Logo is validate
+2022-12-06 13:02:39 INFO  Log:15 - =====================================validateLogo TEST END=========================================
+2022-12-06 13:02:39 INFO  Log:11 - =====================================validateTitle TEST START=========================================
+2022-12-06 13:02:39 INFO  Log:20 - Title is matched 
+2022-12-06 13:02:39 INFO  Log:15 - =====================================validateTitle TEST END=========================================
+2022-12-06 13:02:50 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:02:56 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-06 13:02:58 INFO  Log:20 - Clicked on Signup/Login
+2022-12-06 13:05:36 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:05:48 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:05:54 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-06 13:05:57 INFO  Log:20 - Clicked on Signup/Login
+2022-12-06 13:06:05 INFO  Log:20 - Login Successfully
+2022-12-06 13:06:05 INFO  Log:20 - 'Logged In As' is found and HomePage is validated 
+2022-12-06 13:06:05 INFO  Log:15 - =====================================loggedInAs TEST END=========================================
+2022-12-06 13:11:18 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:11:25 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-06 13:11:28 INFO  Log:20 - Clicked on Signup/Login
+2022-12-06 13:11:32 INFO  Log:20 - Login Successfully
+2022-12-06 13:11:32 INFO  Log:20 - 'Logged In As' is found and HomePage is validated 
+2022-12-06 13:11:32 INFO  Log:15 - =====================================loggedInAs TEST END=========================================
+2022-12-06 13:11:48 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:11:55 INFO  Log:11 - =====================================validateLogo TEST START=========================================
+2022-12-06 13:11:55 INFO  Log:20 - Logo is validate
+2022-12-06 13:11:55 INFO  Log:15 - =====================================validateLogo TEST END=========================================
+2022-12-06 13:11:55 INFO  Log:11 - =====================================validateTitle TEST START=========================================
+2022-12-06 13:11:55 INFO  Log:20 - Title is matched 
+2022-12-06 13:11:55 INFO  Log:15 - =====================================validateTitle TEST END=========================================
+2022-12-06 13:12:02 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:12:08 INFO  Log:11 - =====================================login TEST START=========================================
+2022-12-06 13:12:11 INFO  Log:20 - clicked on Signup/Login
+2022-12-06 13:12:12 INFO  Log:20 - User Name entred
+2022-12-06 13:12:12 INFO  Log:20 - Password entred successfully and Clicking Submit button for Login
+2022-12-06 13:12:21 INFO  Log:20 - Login Successfully 
+2022-12-06 13:12:23 INFO  Log:20 - Clicked Logout
+2022-12-06 13:12:23 INFO  Log:20 - Login page URL validated// landing page after logout
+2022-12-06 13:12:23 INFO  Log:20 - Logout Successfully 
+2022-12-06 13:12:23 INFO  Log:15 - =====================================login TEST END=========================================
+2022-12-06 13:12:31 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:12:37 INFO  Log:11 - =====================================endToEnd TEST START=========================================
+2022-12-06 13:12:38 INFO  Log:20 - Entering login details
+2022-12-06 13:13:50 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:13:56 INFO  Log:11 - =====================================endToEnd TEST START=========================================
+2022-12-06 13:13:57 INFO  Log:20 - Entering login details
+2022-12-06 13:16:16 INFO  Log:20 - Login Successfully
+2022-12-06 13:16:16 INFO  Log:20 - Selecting the product 
+2022-12-06 13:16:33 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:16:39 INFO  Log:11 - =====================================endToEnd TEST START=========================================
+2022-12-06 13:16:40 INFO  Log:20 - Entering login details
+2022-12-06 13:19:08 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:19:14 INFO  Log:11 - =====================================endToEnd TEST START=========================================
+2022-12-06 13:19:15 INFO  Log:20 - Entering login details
+2022-12-06 13:19:19 INFO  Log:20 - Login Successfully
+2022-12-06 13:19:19 INFO  Log:20 - Selecting the product 
+2022-12-06 13:19:21 INFO  Log:20 - Price of product on 'Add to cart' / 'ProductDetails' page = 400
+2022-12-06 13:19:21 INFO  Log:20 - clicked on Add to cart 
+2022-12-06 13:19:22 INFO  Log:20 - Clicked on Continue Shopping option
+2022-12-06 13:19:24 INFO  Log:20 - Cliking the Shopping cart option from menu
+2022-12-06 13:19:24 INFO  Log:20 - Price of product on 'Shopping cart' / 'ViewCart' page 400
+2022-12-06 13:19:26 INFO  Log:20 - Procceding for ckeckout the product
+2022-12-06 13:19:28 INFO  Log:20 - Clicking on Place the order
+2022-12-06 13:19:28 INFO  Log:20 - Entering the Bank card details
+2022-12-06 13:19:29 INFO  Log:20 - Clicking on Pay and confirm the order
+2022-12-06 13:19:32 INFO  Log:20 - Order Confirmation text matched = Congratulations! Your order has been confirmed!
+2022-12-06 13:19:39 INFO  Log:20 - Logging out!
+2022-12-06 13:19:40 INFO  Log:15 - =====================================endToEnd TEST END=========================================
+2022-12-06 13:20:18 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:20:23 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-06 13:20:24 INFO  Log:20 - Clicked on Signup/Login
+2022-12-06 13:21:10 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:21:16 INFO  Log:11 - =====================================loggedInAs TEST START=========================================
+2022-12-06 13:21:19 INFO  Log:20 - Clicked on Signup/Login
+2022-12-06 13:21:24 INFO  Log:20 - Login Successfully
+2022-12-06 13:21:24 INFO  Log:20 - 'Logged In As' is found and HomePage is validated 
+2022-12-06 13:21:24 INFO  Log:15 - =====================================loggedInAs TEST END=========================================
+2022-12-06 13:21:36 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:21:46 INFO  Log:11 - =====================================validateLogo TEST START=========================================
+2022-12-06 13:21:46 INFO  Log:20 - Logo is validate
+2022-12-06 13:21:46 INFO  Log:15 - =====================================validateLogo TEST END=========================================
+2022-12-06 13:21:46 INFO  Log:11 - =====================================validateTitle TEST START=========================================
+2022-12-06 13:21:46 INFO  Log:20 - Title is matched 
+2022-12-06 13:21:46 INFO  Log:15 - =====================================validateTitle TEST END=========================================
+2022-12-06 13:21:55 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:22:01 INFO  Log:11 - =====================================login TEST START=========================================
+2022-12-06 13:22:02 INFO  Log:20 - clicked on Signup/Login
+2022-12-06 13:22:03 INFO  Log:20 - User Name entred
+2022-12-06 13:22:03 INFO  Log:20 - Password entred successfully and Clicking Submit button for Login
+2022-12-06 13:22:07 INFO  Log:20 - Login Successfully 
+2022-12-06 13:22:09 INFO  Log:20 - Clicked Logout
+2022-12-06 13:22:09 INFO  Log:20 - Login page URL validated// landing page after logout
+2022-12-06 13:22:09 INFO  Log:20 - Logout Successfully 
+2022-12-06 13:22:09 INFO  Log:15 - =====================================login TEST END=========================================
+2022-12-06 13:23:16 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:23:22 INFO  Log:11 - =====================================login TEST START=========================================
+2022-12-06 13:23:23 INFO  Log:20 - clicked on Signup/Login
+2022-12-06 13:23:23 INFO  Log:20 - User Name entred
+2022-12-06 13:23:23 INFO  Log:20 - Password entred successfully and Clicking Submit button for Login
+2022-12-06 13:23:32 INFO  Log:20 - Login Successfully 
+2022-12-06 13:23:35 INFO  Log:20 - Clicked Logout
+2022-12-06 13:23:35 INFO  Log:20 - Login page URL validated// landing page after logout
+2022-12-06 13:23:35 INFO  Log:20 - Logout Successfully 
+2022-12-06 13:23:35 INFO  Log:15 - =====================================login TEST END=========================================
+2022-12-06 13:29:46 INFO  Log:20 - This is beforeSuit Method
+2022-12-06 13:29:54 INFO  Log:11 - =====================================login TEST START=========================================
+2022-12-06 13:29:56 INFO  Log:20 - clicked on Signup/Login
+2022-12-06 13:29:56 INFO  Log:20 - User Name entred
+2022-12-06 13:29:56 INFO  Log:20 - Password entred successfully and Clicking Submit button for Login
+2022-12-06 13:30:01 INFO  Log:20 - Login Successfully 
+2022-12-06 13:30:03 INFO  Log:20 - Clicked Logout
+2022-12-06 13:30:03 INFO  Log:20 - Login page URL validated// landing page after logout
+2022-12-06 13:30:03 INFO  Log:20 - Logout Successfully 
+2022-12-06 13:30:03 INFO  Log:15 - =====================================login TEST END=========================================
