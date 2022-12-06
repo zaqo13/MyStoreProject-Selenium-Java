@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T13:29:54 IST" name="Sanity" finished-at="2022-12-06T13:30:03 IST" duration-ms="8798">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T13:29:54 IST" name="loginTest01" finished-at="2022-12-06T13:30:03 IST" duration-ms="8798">
+      <class name="com.mystore.testcases.LoginPageTestClass">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.mystore.testcases.LoginPageTestClass@163e4e87]" started-at="2022-12-06T13:29:46 IST" name="beforeSuite" finished-at="2022-12-06T13:29:54 IST" duration-ms="7759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.mystore.testcases.LoginPageTestClass@163e4e87]" started-at="2022-12-06T13:29:54 IST" name="loginTest" data-provider="data-providerLogIn" finished-at="2022-12-06T13:30:03 IST" duration-ms="8771" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email01@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.mystore.testcases.LoginPageTestClass -->
+    </test> <!-- loginTest01 -->
+  </suite> <!-- Sanity -->
+</testng-results>
